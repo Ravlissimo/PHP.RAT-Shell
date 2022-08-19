@@ -1,7 +1,7 @@
-CCCP Shell
+[PHP.RAT Shell]
 ====
 
-CCCPShell is a PHP Shell written from scratch in my spare time.
+[PHP.RAT Shell] is a PHP Shell written from scratch in my spare time.
 
 ![alt text](https://raw.githubusercontent.com/xchwarze/CCCPShell/master/misc/diagram.png "CCCPShell - Diagram")
 
